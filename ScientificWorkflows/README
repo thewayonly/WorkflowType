@@ -1,0 +1,4 @@
+The scientific workflows are cited from [1], and the relevant website of this paper is https://confluence.pegasus.isi.edu/display/pegasus/WorkflowGenerator.
+We mainly parsed the DAG files of five classical workflow types for further analysis. 
+
+[1] H. Topcuoglu, S. Hariri, M.-Y. Wu, Performance-effective and lowcomplexity task scheduling for heterogeneous computing, IEEE Transactions on Parallel and Distributed Systems 13 (3) (2002) 260–274.
